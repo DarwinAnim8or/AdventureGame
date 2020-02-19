@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# Custom folders
+3rdparty/
+_Build/
+.vs/
